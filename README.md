@@ -44,7 +44,7 @@ All charts on this page are bar charts for clear comparison.
 
 ## Data Source
 
-- The data for this report is sourced from an SQL Server database.
+- The data for this report is sourced from an SQL Server database containing 48,620 rows.
 - The data range is from January 15 to December 15.
 
 ## How to Use
